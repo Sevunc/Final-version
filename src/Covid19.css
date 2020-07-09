@@ -1,0 +1,9 @@
+.rowStyle {
+  background-color: rgb(104, 99, 92) !important;
+  color: rgb(247, 51, 51) !important;
+  font-size: 20px !important;
+}
+.imgStyle {
+  margin-top: -10% !important;
+  margin-left: 600px;
+}

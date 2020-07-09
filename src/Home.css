@@ -1,0 +1,63 @@
+.Search {
+  text-align: center;
+  margin: auto;
+  color: blue;
+}
+.label {
+  width: 500px;
+  height: 40px;
+  margin: auto;
+  color: rgba(56, 55, 55, 0.897);
+  font-size: xx-large;
+}
+.p {
+  color: rgba(56, 55, 55, 0.897);
+  font-size: xx-large;
+}
+.title {
+  font-size: 25px;
+  color: rgb(80, 168, 245);
+}
+.loader {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+}
+.show {
+  display: inline-block;
+}
+.hide {
+  display: none;
+}
+.img {
+  width: 135px;
+  height: 100px;
+}
+.a {
+  height: 2500px;
+  width: 350px;
+}
+.name {
+  justify-content: center;
+}
+
+.tablstl {
+  margin-left: 58%;
+}
+.title {
+  border-style: ridge;
+  font-size: 15px;
+  color: rgb(1, 14, 26);
+}
+.tdstyle {
+  border-style: ridge;
+  height: 50px !important;
+  font-size: 15px;
+}
+
+.navClass {
+  background-color: rgb(153, 105, 199) !important;
+}
